@@ -36,4 +36,5 @@ You can then go to http://localhost:8080 or http://host-ip:8080 in a browser and
 ### Other useful commands ###
 
 docker exec -it rabbitmq bash
+
 docker build --no-cache -t rabbitmq .
